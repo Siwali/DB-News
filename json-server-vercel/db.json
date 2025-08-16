@@ -303,6 +303,151 @@
           "imageUrl": ""
         }
       ]
+    },
+    {
+      "id": 11,
+      "topic": "Time traveler spotted at 1920s jazz club",
+      "shortDetail": "An old photograph appears to show a man using a smartphone in 1928.",
+      "fullDetail": "A black-and-white photo from a 1928 jazz club has gone viral after viewers noticed a man who seems to be holding a modern smartphone. Historians are skeptical, suggesting it could simply be a cigarette case.",
+      "reporter": "Alice Wong",
+      "date": "5 Aug 2025",
+      "time": "9:15 pm",
+      "status": "Fake News",
+      "imageLink": "https://cdn.vox-cdn.com/thumbor/OzXAwUToxJwHAXV1Qlb6CVODihQ=/0x0:800x605/970x728/filters:focal(336x239:464x367):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/62585574/Club_Alabam.0.0.jpg",
+      "votesFake": 130,
+      "votesNotFake": 15,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Leo Martinez",
+          "vote": "Fake",
+          "comment": "Smartphones didn’t exist in the 1920s.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Emily White",
+          "vote": "Not Fake",
+          "comment": "Looks convincing though!",
+          "imageUrl": "https://images.stockcake.com/public/2/c/4/2c45d806-a95a-4239-be96-3e0b35414378_large/vintage-rotary-telephone-stockcake.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "topic": "World’s largest pizza baked in Italy",
+      "shortDetail": "Chefs in Naples created a pizza the size of a football field.",
+      "fullDetail": "The culinary team in Naples claims to have baked a pizza measuring over 100 meters in diameter, setting a new world record. Locals enjoyed free slices during the event.",
+      "reporter": "Sara Kim",
+      "date": "4 Aug 2025",
+      "time": "1:00 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://i.dailymail.co.uk/i/pix/2012/12/14/article-0-1683CDB8000005DC-258_634x354.jpg",
+      "votesFake": 3,
+      "votesNotFake": 200,
+      "comments": [
+        {
+          "id": 1,
+          "user": "John Doe",
+          "vote": "Not Fake",
+          "comment": "I saw this on the news, looked delicious!",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Peter King",
+          "vote": "Fake",
+          "comment": "Photoshop? Looks too big.",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "topic": "Aliens demand Wi-Fi password over radio signal",
+      "shortDetail": "Astronomers intercepted a mysterious signal asking for Earth's Wi-Fi password.",
+      "fullDetail": "The SETI Institute reported receiving an unusual radio message repeating the phrase: 'Send Wi-Fi password'. Experts believe it’s likely a prank signal or natural interference.",
+      "reporter": "Chris Miller",
+      "date": "3 Aug 2025",
+      "time": "5:30 pm",
+      "status": "Fake News",
+      "imageLink": "https://ichef.bbci.co.uk/news/800/cpsprodpb/ECF6/production/_100026606_gettyimages-810446884.jpg.webp",
+      "votesFake": 180,
+      "votesNotFake": 25,
+      "comments": [
+        {
+          "id": 1,
+          "user": "David Chen",
+          "vote": "Fake",
+          "comment": "Aliens wouldn’t need our Wi-Fi.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Anna Lee",
+          "vote": "Not Fake",
+          "comment": "Or maybe they just want to watch Netflix!",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "topic": "Japan unveils floating city",
+      "shortDetail": "A futuristic city built entirely on floating platforms has opened in Tokyo Bay.",
+      "fullDetail": "Engineers in Japan revealed the world’s first large-scale floating city project. The city includes residential zones, parks, and renewable energy sources. It’s designed to combat rising sea levels.",
+      "reporter": "Olivia Green",
+      "date": "2 Aug 2025",
+      "time": "8:00 am",
+      "status": "Not-Fake News",
+      "imageLink": "https://www.globalconstructionreview.com/wp-content/uploads/2023/06/dog.jpg",
+      "votesFake": 12,
+      "votesNotFake": 140,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alice Wong",
+          "vote": "Not Fake",
+          "comment": "Japan is always ahead with tech.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Mark Johnson",
+          "vote": "Fake",
+          "comment": "Until I see it, I won’t believe it.",
+          "imageUrl": "https://robbreport.com/wp-content/uploads/2023/06/DogenCity1.jpg?w=1000"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "topic": "Scientists create invisibility cloak",
+      "shortDetail": "Researchers claim to have developed a fabric that bends light, making objects invisible.",
+      "fullDetail": "The University of Fictional Sciences announced a prototype cloak that uses nanomaterials to redirect light waves. The effect reportedly hides small objects from view, raising ethical and military debates.",
+      "reporter": "John Smith",
+      "date": "1 Aug 2025",
+      "time": "10:10 am",
+      "status": "Not-Fake News",
+      "imageLink": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/2014/09/27/b2a121b52c24f56b46d8fa04c23181f2.jpg?itok=Gtq26Sen",
+      "votesFake": 25,
+      "votesNotFake": 110,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jane Doe",
+          "vote": "Not Fake",
+          "comment": "Imagine soldiers using this technology.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Peter King",
+          "vote": "Fake",
+          "comment": "Sounds like science fiction.",
+          "imageUrl": ""
+        }
+      ]
     }
   ]
 }
