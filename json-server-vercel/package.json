@@ -5,7 +5,7 @@
   "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js",
-    "dev": "json-server --watch db.json --port 3000"
+    "dev": "node api/index.js"
   },
   "dependencies": {
     "json-server": "^0.17.4"
