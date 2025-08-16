@@ -1,0 +1,308 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "topic": "Elephants seen flying over Bangkok",
+      "shortDetail": "A herd of elephants was reportedly seen flying in a V-formation over the capital city, dazzling onlookers.",
+      "fullDetail": "Eyewitnesses claim to have seen a group of elephants with large, feathery wings soaring high above the city's skyline. The event, which has yet to be confirmed by official sources, has sparked widespread debate on social media.",
+      "reporter": "Jane Doe",
+      "date": "15 Aug 2025",
+      "time": "5:00 pm",
+      "status": "Fake News",
+      "imageLink": "https://i.imghippo.com/files/nQC9333Nwc.png",
+      "votesFake": 150,
+      "votesNotFake": 10,
+      "comments": [
+        {
+          "id": 1,
+          "user": "John Doe",
+          "vote": "Fake",
+          "comment": "No way elephants can fly.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Sara Kim",
+          "vote": "Not Fake",
+          "comment": "I saw something in the sky last night, maybe it was true.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "user": "Leo Martinez",
+          "vote": "Fake",
+          "comment": "This has to be CGI.",
+          "imageUrl": "https://example.com/images/elephant-cgi.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "New study finds chocolate is a vegetable",
+      "shortDetail": "A groundbreaking study published in a scientific journal suggests chocolate can be reclassified as a vegetable.",
+      "fullDetail": "Researchers from the Institute of Fictional Sciences have concluded that because chocolate comes from a cacao bean, which is a plant, it should be considered a vegetable. The study's authors suggest this reclassification could lead to healthier snack options in schools.",
+      "reporter": "John Smith",
+      "date": "14 Aug 2025",
+      "time": "10:30 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1488688505.jpg?q=w_1160,c_fill/f_webp",
+      "votesFake": 2,
+      "votesNotFake": 250,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Emily White",
+          "vote": "Not Fake",
+          "comment": "Technically true since cacao is a plant.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "David Chen",
+          "vote": "Fake",
+          "comment": "This feels misleading—chocolate candy is not a vegetable.",
+          "imageUrl": ""
+        },
+        {
+          "id": 3,
+          "user": "Anna Lee",
+          "vote": "Not Fake",
+          "comment": "Funny but valid point.",
+          "imageUrl": "https://example.com/images/choco.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "topic": "The moon is made of green cheese, says astronaut",
+      "shortDetail": "An anonymous astronaut claims the moon's surface is entirely composed of green cheese, contrary to scientific consensus.",
+      "fullDetail": "During a secret interview, a retired astronaut, who wishes to remain anonymous, stated that all lunar missions have been a cover-up to hide the fact that the moon is, in fact, a giant block of green cheese. NASA has not yet commented on the claim.",
+      "reporter": "Anna Lee",
+      "date": "13 Aug 2025",
+      "time": "3:45 pm",
+      "status": "Fake News",
+      "imageLink": "https://lightsinthedark.com/wp-content/uploads/2015/11/green-moon.jpg",
+      "votesFake": 300,
+      "votesNotFake": 5,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Peter King",
+          "vote": "Fake",
+          "comment": "Classic old myth, not real science.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Sara Kim",
+          "vote": "Fake",
+          "comment": "NASA photos prove otherwise.",
+          "imageUrl": "https://example.com/images/moon.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Local cat runs for mayor",
+      "shortDetail": "A tuxedo cat named Mittens has officially filed to run for mayor of a small town in Massachusetts, promising 'more naps, less taxes.'",
+      "fullDetail": "Mittens, a three-year-old feline, has become a local sensation after his owners filed the necessary paperwork for him to be a mayoral candidate. His campaign, centered on comfort and economic austerity, has resonated with many voters tired of traditional politics.",
+      "reporter": "Emily White",
+      "date": "12 Aug 2025",
+      "time": "7:20 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://s.hdnux.com/photos/01/14/67/13/20148988/10/960x0.webp",
+      "votesFake": 10,
+      "votesNotFake": 80,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Mark Johnson",
+          "vote": "Not Fake",
+          "comment": "Cute! I'd vote for Mittens.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Alice Wong",
+          "vote": "Fake",
+          "comment": "Funny story but unlikely.",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "topic": "Statue of Liberty moves to New Jersey",
+      "shortDetail": "The Statue of Liberty was reportedly dismantled and moved to a new location in New Jersey overnight.",
+      "fullDetail": "In a surprising move, sources report that the iconic Statue of Liberty was relocated across the Hudson River to a new home in New Jersey. The government has not released any official statement regarding the move.",
+      "reporter": "Chris Miller",
+      "date": "11 Aug 2025",
+      "time": "4:10 pm",
+      "status": "Fake News",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg",
+      "votesFake": 95,
+      "votesNotFake": 15,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Chris Miller",
+          "vote": "Fake",
+          "comment": "Impossible to move such a big statue overnight.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Jane Doe",
+          "vote": "Fake",
+          "comment": "Checked the webcam, it’s still there.",
+          "imageUrl": "https://example.com/images/liberty.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "topic": "The sun will be purple tomorrow",
+      "shortDetail": "Scientists have issued a warning that a rare atmospheric phenomenon will cause the sun to appear purple for a full 24 hours.",
+      "fullDetail": "According to a press release from the International Weather Alliance, a unique alignment of solar particles and a specific type of atmospheric dust will cause a 'purple sun' event. The public is advised to take photos and enjoy the spectacle.",
+      "reporter": "Olivia Green",
+      "date": "10 Aug 2025",
+      "time": "6:00 pm",
+      "status": "Fake News",
+      "imageLink": "https://www.treehugger.com/thmb/CuTzoTtXv9ThPkwdSxHREceRFU8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/scenic-view-of-silhouette-mountains-against-sky-during-sunset-1325186919-166516c836d644dd953f34a3b7fe9c7f.jpg",
+      "votesFake": 210,
+      "votesNotFake": 30,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Olivia Green",
+          "vote": "Not Fake",
+          "comment": "I’m excited to see the sky tomorrow!",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Anna Lee",
+          "vote": "Fake",
+          "comment": "Sounds like clickbait science.",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "Dogs can now speak human languages",
+      "shortDetail": "A breakthrough in canine science has led to dogs being able to communicate with humans in fluent English.",
+      "fullDetail": "Researchers have developed a device that translates a dog's thoughts and barks into clear, understandable English. The first dog to use the device, a Golden Retriever named Buster, reportedly asked for a steak and a copy of the morning newspaper.",
+      "reporter": "Mark Johnson",
+      "date": "9 Aug 2025",
+      "time": "9:40 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/30/14/mridogs.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
+      "votesFake": 5,
+      "votesNotFake": 180,
+      "comments": [
+        {
+          "id": 1,
+          "user": "David Chen",
+          "vote": "Not Fake",
+          "comment": "If true, dogs will be our new friends in politics.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Emily White",
+          "vote": "Fake",
+          "comment": "I want to see proof of the device working.",
+          "imageUrl": "https://example.com/images/dog-device.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "Earth is actually a cube, new satellite data suggests",
+      "shortDetail": "Recent data from a new satellite reveals the Earth is not a sphere, but a perfect cube.",
+      "fullDetail": "A satellite named 'CubeSat-2' has sent back images that show the Earth with sharp, 90-degree corners. The findings have shocked the scientific community and have led to a re-evaluation of all geographical maps.",
+      "reporter": "Karen Chen",
+      "date": "8 Aug 2025",
+      "time": "2:15 pm",
+      "status": "Fake News",
+      "imageLink": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_673/MjEwNzAwNTIxMzMyMzUyODQ5/the-earth-cube-planet.webp",
+      "votesFake": 190,
+      "votesNotFake": 25,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Leo Martinez",
+          "vote": "Fake",
+          "comment": "Physics makes this impossible.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Alice Wong",
+          "vote": "Fake",
+          "comment": "Obvious satire.",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "Antarctica has been sold to a private company",
+      "shortDetail": "A multinational corporation has reportedly purchased the continent of Antarctica to turn it into a luxury resort.",
+      "fullDetail": "According to a leaked memo, the 'Global Conglomerate' company has finalized a deal to buy Antarctica. Their plans include building massive, climate-controlled biodomes to house casinos, hotels, and a water park.",
+      "reporter": "Peter King",
+      "date": "7 Aug 2025",
+      "time": "11:55 pm",
+      "status": "Fake News",
+      "imageLink": "https://aebc975c.delivery.rocketcdn.me/wp-content/uploads/2024/09/062_SO200124_Antarctica_Ross-Sea_Foyn-Island%C2%A9PONANT_Photo-Ambassador_Cindy-Miller-Hopkins-3-2.jpg.webp",
+      "votesFake": 120,
+      "votesNotFake": 20,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Peter King",
+          "vote": "Fake",
+          "comment": "Countries can’t sell continents.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Sara Kim",
+          "vote": "Fake",
+          "comment": "Clearly fake news.",
+          "imageUrl": "https://example.com/images/antarctica.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "Scientists invent a pill for instant knowledge",
+      "shortDetail": "A new pill that allows you to instantly learn a new skill or language has been created by a team of biochemists.",
+      "fullDetail": "The 'Know-It-All Pill' is said to reprogram the brain's neural pathways, allowing for instant absorption of information. The first test subject reportedly took the pill and immediately began speaking fluent Japanese and playing the piano like a virtuoso.",
+      "reporter": "David Chen",
+      "date": "6 Aug 2025",
+      "time": "8:00 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://www.verywellmind.com/thmb/VWsMCGn5ffLNC4OtNZd7DvuQXSs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-153251304-58d2d5085f9b584683e7ce29.jpg",
+      "votesFake": 5,
+      "votesNotFake": 160,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Mark Johnson",
+          "vote": "Not Fake",
+          "comment": "I wish this existed! Would save years of study.",
+          "imageUrl": ""
+        },
+        {
+          "id": 2,
+          "user": "Jane Doe",
+          "vote": "Fake",
+          "comment": "Too good to be true.",
+          "imageUrl": ""
+        }
+      ]
+    }
+  ]
+}
