@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 // อ่านข้อมูลจาก db.json
-const dbPath = path.join(process.cwd(), 'db.json');
+const dbPath = path.join(__dirname, '..', 'db.json');
+
 const data = JSON.parse(fs.readFileSync(dbPath, 'utf8'));
 
 module.exports = async (req, res) => {
