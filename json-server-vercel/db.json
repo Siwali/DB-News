@@ -9,7 +9,7 @@
       "date": "30 Jul 2025",
       "time": "3:30 pm",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news1.jpg",
+      "imageLink": "https://i.imghippo.com/files/nQC9333Nwc.png",
       "votesFake": 125,
       "votesNotFake": 83,
       "comments": [
@@ -104,7 +104,7 @@
       "date": "29 Jul 2025",
       "time": "3:00 am",
       "status": "Not-Fake News",
-      "imageLink": "https://example.com/images/news2.jpg",
+      "imageLink": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1488688505.jpg?q=w_1160,c_fill/f_webp",
       "votesFake": 220,
       "votesNotFake": 293,
       "comments": [
@@ -143,7 +143,7 @@
       "date": "28 Jul 2025",
       "time": "9:00 pm",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news3.jpg",
+      "imageLink": "https://lightsinthedark.com/wp-content/uploads/2015/11/green-moon.jpg",
       "votesFake": 92,
       "votesNotFake": 42,
       "comments": [
@@ -206,7 +206,7 @@
       "date": "27 Jul 2025",
       "time": "11:30 pm",
       "status": "Not-Fake News",
-      "imageLink": "https://example.com/images/news4.jpg",
+      "imageLink": "https://s.hdnux.com/photos/01/14/67/13/20148988/10/960x0.webp",
       "votesFake": 119,
       "votesNotFake": 278,
       "comments": [
@@ -269,7 +269,7 @@
       "date": "26 Jul 2025",
       "time": "2:45 pm",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news5.jpg",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg",
       "votesFake": 274,
       "votesNotFake": 193,
       "comments": [
@@ -332,7 +332,7 @@
       "date": "25 Jul 2025",
       "time": "7:00 pm",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news6.jpg",
+      "imageLink": "https://www.treehugger.com/thmb/CuTzoTtXv9ThPkwdSxHREceRFU8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/scenic-view-of-silhouette-mountains-against-sky-during-sunset-1325186919-166516c836d644dd953f34a3b7fe9c7f.jpg",
       "votesFake": 73,
       "votesNotFake": 190,
       "comments": [
@@ -371,7 +371,7 @@
       "date": "24 Jul 2025",
       "time": "10:45 am",
       "status": "Not-Fake News",
-      "imageLink": "https://example.com/images/news7.jpg",
+      "imageLink": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/30/14/mridogs.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
       "votesFake": 69,
       "votesNotFake": 232,
       "comments": [
@@ -418,7 +418,7 @@
       "date": "23 Jul 2025",
       "time": "9:15 am",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news8.jpg",
+      "imageLink": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_673/MjEwNzAwNTIxMzMyMzUyODQ5/the-earth-cube-planet.webp",
       "votesFake": 53,
       "votesNotFake": 279,
       "comments": [
@@ -457,7 +457,7 @@
       "date": "22 Jul 2025",
       "time": "10:30 am",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news9.jpg",
+      "imageLink": "https://aebc975c.delivery.rocketcdn.me/wp-content/uploads/2024/09/062_SO200124_Antarctica_Ross-Sea_Foyn-Island%C2%A9PONANT_Photo-Ambassador_Cindy-Miller-Hopkins-3-2.jpg.webp",
       "votesFake": 283,
       "votesNotFake": 275,
       "comments": [
@@ -512,7 +512,7 @@
       "date": "21 Jul 2025",
       "time": "10:45 am",
       "status": "Not-Fake News",
-      "imageLink": "https://example.com/images/news10.jpg",
+      "imageLink": "https://www.verywellmind.com/thmb/VWsMCGn5ffLNC4OtNZd7DvuQXSs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-153251304-58d2d5085f9b584683e7ce29.jpg",
       "votesFake": 299,
       "votesNotFake": 62,
       "comments": [
@@ -559,7 +559,7 @@
       "date": "20 Jul 2025",
       "time": "1:45 am",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news11.jpg",
+      "imageLink": "https://cdn.vox-cdn.com/thumbor/OzXAwUToxJwHAXV1Qlb6CVODihQ=/0x0:800x605/970x728/filters:focal(336x239:464x367):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/62585574/Club_Alabam.0.0.jpg",
       "votesFake": 135,
       "votesNotFake": 89,
       "comments": [
@@ -598,7 +598,7 @@
       "date": "19 Jul 2025",
       "time": "10:30 am",
       "status": "Not-Fake News",
-      "imageLink": "https://example.com/images/news12.jpg",
+      "imageLink": "https://i.dailymail.co.uk/i/pix/2012/12/14/article-0-1683CDB8000005DC-258_634x354.jpg",
       "votesFake": 24,
       "votesNotFake": 93,
       "comments": [
@@ -669,7 +669,7 @@
       "date": "18 Jul 2025",
       "time": "10:00 am",
       "status": "Fake News",
-      "imageLink": "https://example.com/images/news13.jpg",
+      "imageLink": "https://ichef.bbci.co.uk/news/800/cpsprodpb/ECF6/production/_100026606_gettyimages-810446884.jpg.webp",
       "votesFake": 147,
       "votesNotFake": 297,
       "comments": [
@@ -708,7 +708,7 @@
       "date": "17 Jul 2025",
       "time": "8:15 am",
       "status": "Not-Fake News",
-      "imageLink": "https://example.com/images/news14.jpg",
+      "imageLink": "https://www.globalconstructionreview.com/wp-content/uploads/2023/06/dog.jpg",
       "votesFake": 137,
       "votesNotFake": 268,
       "comments": [
@@ -747,7 +747,7 @@
       "date": "16 Jul 2025",
       "time": "7:45 am",
       "status": "Not-Fake News",
-      "imageLink": "https://example.com/images/news15.jpg",
+      "imageLink": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/2014/09/27/b2a121b52c24f56b46d8fa04c23181f2.jpg?itok=Gtq26Sen",
       "votesFake": 291,
       "votesNotFake": 221,
       "comments": [
