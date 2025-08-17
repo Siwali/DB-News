@@ -3,449 +3,1602 @@
     {
       "id": 1,
       "topic": "Elephants seen flying over Bangkok",
-      "shortDetail": "A herd of elephants was reportedly seen flying in a V-formation over the capital city, dazzling onlookers.",
-      "fullDetail": "Eyewitnesses claim to have seen a group of elephants with large, feathery wings soaring high above the city's skyline. The event, which has yet to be confirmed by official sources, has sparked widespread debate on social media.",
-      "reporter": "Jane Doe",
-      "date": "15 Aug 2025",
-      "time": "5:00 pm",
+      "shortDetail": "Brief summary about elephants seen flying over bangkok.",
+      "fullDetail": "Reports have emerged about elephants seen flying over bangkok, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Noah Brown",
+      "date": "30 Jul 2025",
+      "time": "3:30 pm",
       "status": "Fake News",
-      "imageLink": "https://i.imghippo.com/files/nQC9333Nwc.png",
-      "votesFake": 150,
-      "votesNotFake": 10,
+      "imageLink": "https://example.com/images/news1.jpg",
+      "votesFake": 125,
+      "votesNotFake": 83,
       "comments": [
         {
           "id": 1,
-          "user": "John Doe",
+          "user": "Kenji Tanaka",
           "vote": "Fake",
-          "comment": "No way elephants can fly.",
-          "imageUrl": ""
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T15:33:00"
         },
         {
           "id": 2,
-          "user": "Sara Kim",
-          "vote": "Not Fake",
-          "comment": "I saw something in the sky last night, maybe it was true.",
-          "imageUrl": ""
+          "user": "Mariya Petrov",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-30T15:36:00"
         },
         {
           "id": 3,
-          "user": "Leo Martinez",
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-30T15:39:00"
+        },
+        {
+          "id": 4,
+          "user": "Test User 1",
           "vote": "Fake",
-          "comment": "This has to be CGI.",
-          "imageUrl": "https://example.com/images/elephant-cgi.jpg"
+          "comment": "Pagination test comment #1 (Fake).",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T15:38:00"
+        },
+        {
+          "id": 5,
+          "user": "Test User 2",
+          "vote": "Not Fake",
+          "comment": "Pagination test comment #2 (Not Fake).",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T15:42:00"
+        },
+        {
+          "id": 6,
+          "user": "Test User 3",
+          "vote": "Fake",
+          "comment": "Pagination test comment #3 (Fake).",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T15:46:00"
+        },
+        {
+          "id": 7,
+          "user": "Test User 4",
+          "vote": "Not Fake",
+          "comment": "Pagination test comment #4 (Not Fake).",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T15:50:00"
+        },
+        {
+          "id": 8,
+          "user": "Test User 5",
+          "vote": "Fake",
+          "comment": "Pagination test comment #5 (Fake).",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T15:54:00"
+        },
+        {
+          "id": 9,
+          "user": "Test User 6",
+          "vote": "Not Fake",
+          "comment": "Pagination test comment #6 (Not Fake).",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T15:58:00"
+        },
+        {
+          "id": 10,
+          "user": "Test User 7",
+          "vote": "Fake",
+          "comment": "Pagination test comment #7 (Fake).",
+          "imageUrl": "",
+          "createdAt": "2025-07-30T16:02:00"
         }
       ]
     },
     {
       "id": 2,
       "topic": "New study finds chocolate is a vegetable",
-      "shortDetail": "A groundbreaking study published in a scientific journal suggests chocolate can be reclassified as a vegetable.",
-      "fullDetail": "Researchers from the Institute of Fictional Sciences have concluded that because chocolate comes from a cacao bean, which is a plant, it should be considered a vegetable. The study's authors suggest this reclassification could lead to healthier snack options in schools.",
-      "reporter": "John Smith",
-      "date": "14 Aug 2025",
-      "time": "10:30 pm",
+      "shortDetail": "Brief summary about new study finds chocolate is a vegetable.",
+      "fullDetail": "Reports have emerged about new study finds chocolate is a vegetable, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Somchai S.",
+      "date": "29 Jul 2025",
+      "time": "3:00 am",
       "status": "Not-Fake News",
-      "imageLink": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1488688505.jpg?q=w_1160,c_fill/f_webp",
-      "votesFake": 2,
-      "votesNotFake": 250,
+      "imageLink": "https://example.com/images/news2.jpg",
+      "votesFake": 220,
+      "votesNotFake": 293,
       "comments": [
         {
           "id": 1,
-          "user": "Emily White",
-          "vote": "Not Fake",
-          "comment": "Technically true since cacao is a plant.",
-          "imageUrl": ""
+          "user": "Sofia Rossi",
+          "vote": "Fake",
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "",
+          "createdAt": "2025-07-29T03:03:00"
         },
         {
           "id": 2,
-          "user": "David Chen",
+          "user": "Wei Zhang",
           "vote": "Fake",
-          "comment": "This feels misleading—chocolate candy is not a vegetable.",
-          "imageUrl": ""
+          "comment": "Where are the official sources?",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-29T03:06:00"
         },
         {
           "id": 3,
-          "user": "Anna Lee",
-          "vote": "Not Fake",
-          "comment": "Funny but valid point.",
-          "imageUrl": "https://example.com/images/choco.jpg"
+          "user": "Yuri M.",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "",
+          "createdAt": "2025-07-29T03:09:00"
         }
       ]
     },
     {
       "id": 3,
       "topic": "The moon is made of green cheese, says astronaut",
-      "shortDetail": "An anonymous astronaut claims the moon's surface is entirely composed of green cheese, contrary to scientific consensus.",
-      "fullDetail": "During a secret interview, a retired astronaut, who wishes to remain anonymous, stated that all lunar missions have been a cover-up to hide the fact that the moon is, in fact, a giant block of green cheese. NASA has not yet commented on the claim.",
-      "reporter": "Anna Lee",
-      "date": "13 Aug 2025",
-      "time": "3:45 pm",
+      "shortDetail": "Brief summary about the moon is made of green cheese, says astronaut.",
+      "fullDetail": "Reports have emerged about the moon is made of green cheese, says astronaut, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.",
+      "reporter": "Pimchanok W.",
+      "date": "28 Jul 2025",
+      "time": "9:00 pm",
       "status": "Fake News",
-      "imageLink": "https://lightsinthedark.com/wp-content/uploads/2015/11/green-moon.jpg",
-      "votesFake": 300,
-      "votesNotFake": 5,
+      "imageLink": "https://example.com/images/news3.jpg",
+      "votesFake": 92,
+      "votesNotFake": 42,
       "comments": [
         {
           "id": 1,
-          "user": "Peter King",
-          "vote": "Fake",
-          "comment": "Classic old myth, not real science.",
-          "imageUrl": ""
+          "user": "Kenji Tanaka",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-28T21:03:00"
         },
         {
           "id": 2,
-          "user": "Sara Kim",
+          "user": "Fatima Khan",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-28T21:06:00"
+        },
+        {
+          "id": 3,
+          "user": "Ben Parker",
           "vote": "Fake",
-          "comment": "NASA photos prove otherwise.",
-          "imageUrl": "https://example.com/images/moon.jpg"
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-28T21:09:00"
+        },
+        {
+          "id": 4,
+          "user": "Ivy Nguyen",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-28T21:12:00"
+        },
+        {
+          "id": 5,
+          "user": "Ivy Nguyen",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-28T21:15:00"
+        },
+        {
+          "id": 6,
+          "user": "Omar R.",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-28T21:18:00"
         }
       ]
     },
     {
       "id": 4,
       "topic": "Local cat runs for mayor",
-      "shortDetail": "A tuxedo cat named Mittens has officially filed to run for mayor of a small town in Massachusetts, promising 'more naps, less taxes.'",
-      "fullDetail": "Mittens, a three-year-old feline, has become a local sensation after his owners filed the necessary paperwork for him to be a mayoral candidate. His campaign, centered on comfort and economic austerity, has resonated with many voters tired of traditional politics.",
-      "reporter": "Emily White",
-      "date": "12 Aug 2025",
-      "time": "7:20 pm",
+      "shortDetail": "Brief summary about local cat runs for mayor.",
+      "fullDetail": "Reports have emerged about local cat runs for mayor, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Carlos Gomez",
+      "date": "27 Jul 2025",
+      "time": "11:30 pm",
       "status": "Not-Fake News",
-      "imageLink": "https://s.hdnux.com/photos/01/14/67/13/20148988/10/960x0.webp",
-      "votesFake": 10,
-      "votesNotFake": 80,
+      "imageLink": "https://example.com/images/news4.jpg",
+      "votesFake": 119,
+      "votesNotFake": 278,
       "comments": [
         {
           "id": 1,
-          "user": "Mark Johnson",
-          "vote": "Not Fake",
-          "comment": "Cute! I'd vote for Mittens.",
-          "imageUrl": ""
+          "user": "Kenji Tanaka",
+          "vote": "Fake",
+          "comment": "Where are the official sources?",
+          "imageUrl": "",
+          "createdAt": "2025-07-27T23:33:00"
         },
         {
           "id": 2,
-          "user": "Alice Wong",
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-27T23:36:00"
+        },
+        {
+          "id": 3,
+          "user": "Yuri M.",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-27T23:39:00"
+        },
+        {
+          "id": 4,
+          "user": "Liam O'Connor",
           "vote": "Fake",
-          "comment": "Funny story but unlikely.",
-          "imageUrl": ""
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-27T23:42:00"
+        },
+        {
+          "id": 5,
+          "user": "Wei Zhang",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-27T23:45:00"
+        },
+        {
+          "id": 6,
+          "user": "Laura Garcia",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-27T23:48:00"
         }
       ]
     },
     {
       "id": 5,
       "topic": "Statue of Liberty moves to New Jersey",
-      "shortDetail": "The Statue of Liberty was reportedly dismantled and moved to a new location in New Jersey overnight.",
-      "fullDetail": "In a surprising move, sources report that the iconic Statue of Liberty was relocated across the Hudson River to a new home in New Jersey. The government has not released any official statement regarding the move.",
-      "reporter": "Chris Miller",
-      "date": "11 Aug 2025",
-      "time": "4:10 pm",
+      "shortDetail": "Brief summary about statue of liberty moves to new jersey.",
+      "fullDetail": "Reports have emerged about statue of liberty moves to new jersey, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Wei Zhang",
+      "date": "26 Jul 2025",
+      "time": "2:45 pm",
       "status": "Fake News",
-      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg",
-      "votesFake": 95,
-      "votesNotFake": 15,
+      "imageLink": "https://example.com/images/news5.jpg",
+      "votesFake": 274,
+      "votesNotFake": 193,
       "comments": [
         {
           "id": 1,
-          "user": "Chris Miller",
+          "user": "Noah Brown",
           "vote": "Fake",
-          "comment": "Impossible to move such a big statue overnight.",
-          "imageUrl": ""
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "",
+          "createdAt": "2025-07-26T14:48:00"
         },
         {
           "id": 2,
-          "user": "Jane Doe",
+          "user": "Arthit K.",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-26T14:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Somchai S.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-26T14:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Kenji Tanaka",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "",
+          "createdAt": "2025-07-26T14:57:00"
+        },
+        {
+          "id": 5,
+          "user": "Sofia Rossi",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-26T15:00:00"
+        },
+        {
+          "id": 6,
+          "user": "Omar R.",
           "vote": "Fake",
-          "comment": "Checked the webcam, it’s still there.",
-          "imageUrl": "https://example.com/images/liberty.jpg"
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "",
+          "createdAt": "2025-07-26T15:03:00"
         }
       ]
     },
     {
       "id": 6,
       "topic": "The sun will be purple tomorrow",
-      "shortDetail": "Scientists have issued a warning that a rare atmospheric phenomenon will cause the sun to appear purple for a full 24 hours.",
-      "fullDetail": "According to a press release from the International Weather Alliance, a unique alignment of solar particles and a specific type of atmospheric dust will cause a 'purple sun' event. The public is advised to take photos and enjoy the spectacle.",
-      "reporter": "Olivia Green",
-      "date": "10 Aug 2025",
-      "time": "6:00 pm",
+      "shortDetail": "Brief summary about the sun will be purple tomorrow.",
+      "fullDetail": "Reports have emerged about the sun will be purple tomorrow, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Noah Brown",
+      "date": "25 Jul 2025",
+      "time": "7:00 pm",
       "status": "Fake News",
-      "imageLink": "https://www.treehugger.com/thmb/CuTzoTtXv9ThPkwdSxHREceRFU8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/scenic-view-of-silhouette-mountains-against-sky-during-sunset-1325186919-166516c836d644dd953f34a3b7fe9c7f.jpg",
-      "votesFake": 210,
-      "votesNotFake": 30,
+      "imageLink": "https://example.com/images/news6.jpg",
+      "votesFake": 73,
+      "votesNotFake": 190,
       "comments": [
         {
           "id": 1,
-          "user": "Olivia Green",
+          "user": "Thabo N.",
           "vote": "Not Fake",
-          "comment": "I’m excited to see the sky tomorrow!",
-          "imageUrl": ""
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-25T19:03:00"
         },
         {
           "id": 2,
-          "user": "Anna Lee",
-          "vote": "Fake",
-          "comment": "Sounds like clickbait science.",
-          "imageUrl": ""
+          "user": "Kenji Tanaka",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-25T19:06:00"
+        },
+        {
+          "id": 3,
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "",
+          "createdAt": "2025-07-25T19:09:00"
         }
       ]
     },
     {
       "id": 7,
       "topic": "Dogs can now speak human languages",
-      "shortDetail": "A breakthrough in canine science has led to dogs being able to communicate with humans in fluent English.",
-      "fullDetail": "Researchers have developed a device that translates a dog's thoughts and barks into clear, understandable English. The first dog to use the device, a Golden Retriever named Buster, reportedly asked for a steak and a copy of the morning newspaper.",
-      "reporter": "Mark Johnson",
-      "date": "9 Aug 2025",
-      "time": "9:40 pm",
+      "shortDetail": "Brief summary about dogs can now speak human languages.",
+      "fullDetail": "Reports have emerged about dogs can now speak human languages, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Noah Brown",
+      "date": "24 Jul 2025",
+      "time": "10:45 am",
       "status": "Not-Fake News",
-      "imageLink": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/30/14/mridogs.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
-      "votesFake": 5,
-      "votesNotFake": 180,
+      "imageLink": "https://example.com/images/news7.jpg",
+      "votesFake": 69,
+      "votesNotFake": 232,
       "comments": [
         {
           "id": 1,
-          "user": "David Chen",
-          "vote": "Not Fake",
-          "comment": "If true, dogs will be our new friends in politics.",
-          "imageUrl": ""
+          "user": "Wei Zhang",
+          "vote": "Fake",
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "",
+          "createdAt": "2025-07-24T10:48:00"
         },
         {
           "id": 2,
-          "user": "Emily White",
-          "vote": "Fake",
-          "comment": "I want to see proof of the device working.",
-          "imageUrl": "https://example.com/images/dog-device.jpg"
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-24T10:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Fatima Khan",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "",
+          "createdAt": "2025-07-24T10:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "",
+          "createdAt": "2025-07-24T10:57:00"
         }
       ]
     },
     {
       "id": 8,
       "topic": "Earth is actually a cube, new satellite data suggests",
-      "shortDetail": "Recent data from a new satellite reveals the Earth is not a sphere, but a perfect cube.",
-      "fullDetail": "A satellite named 'CubeSat-2' has sent back images that show the Earth with sharp, 90-degree corners. The findings have shocked the scientific community and have led to a re-evaluation of all geographical maps.",
-      "reporter": "Karen Chen",
-      "date": "8 Aug 2025",
-      "time": "2:15 pm",
+      "shortDetail": "Brief summary about earth is actually a cube, new satellite data suggests.",
+      "fullDetail": "Reports have emerged about earth is actually a cube, new satellite data suggests, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Ivy Nguyen",
+      "date": "23 Jul 2025",
+      "time": "9:15 am",
       "status": "Fake News",
-      "imageLink": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_673/MjEwNzAwNTIxMzMyMzUyODQ5/the-earth-cube-planet.webp",
-      "votesFake": 190,
-      "votesNotFake": 25,
+      "imageLink": "https://example.com/images/news8.jpg",
+      "votesFake": 53,
+      "votesNotFake": 279,
       "comments": [
         {
           "id": 1,
-          "user": "Leo Martinez",
-          "vote": "Fake",
-          "comment": "Physics makes this impossible.",
-          "imageUrl": ""
+          "user": "Pimchanok W.",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-23T09:18:00"
         },
         {
           "id": 2,
-          "user": "Alice Wong",
+          "user": "Yuri M.",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-23T09:21:00"
+        },
+        {
+          "id": 3,
+          "user": "Nina Patel",
           "vote": "Fake",
-          "comment": "Obvious satire.",
-          "imageUrl": ""
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "",
+          "createdAt": "2025-07-23T09:24:00"
         }
       ]
     },
     {
       "id": 9,
       "topic": "Antarctica has been sold to a private company",
-      "shortDetail": "A multinational corporation has reportedly purchased the continent of Antarctica to turn it into a luxury resort.",
-      "fullDetail": "According to a leaked memo, the 'Global Conglomerate' company has finalized a deal to buy Antarctica. Their plans include building massive, climate-controlled biodomes to house casinos, hotels, and a water park.",
-      "reporter": "Peter King",
-      "date": "7 Aug 2025",
-      "time": "11:55 pm",
+      "shortDetail": "Brief summary about antarctica has been sold to a private company.",
+      "fullDetail": "Reports have emerged about antarctica has been sold to a private company, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Wei Zhang",
+      "date": "22 Jul 2025",
+      "time": "10:30 am",
       "status": "Fake News",
-      "imageLink": "https://aebc975c.delivery.rocketcdn.me/wp-content/uploads/2024/09/062_SO200124_Antarctica_Ross-Sea_Foyn-Island%C2%A9PONANT_Photo-Ambassador_Cindy-Miller-Hopkins-3-2.jpg.webp",
-      "votesFake": 120,
-      "votesNotFake": 20,
+      "imageLink": "https://example.com/images/news9.jpg",
+      "votesFake": 283,
+      "votesNotFake": 275,
       "comments": [
         {
           "id": 1,
-          "user": "Peter King",
-          "vote": "Fake",
-          "comment": "Countries can’t sell continents.",
-          "imageUrl": ""
+          "user": "Laura Garcia",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-22T10:33:00"
         },
         {
           "id": 2,
-          "user": "Sara Kim",
+          "user": "Ivy Nguyen",
           "vote": "Fake",
-          "comment": "Clearly fake news.",
-          "imageUrl": "https://example.com/images/antarctica.jpg"
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "",
+          "createdAt": "2025-07-22T10:36:00"
+        },
+        {
+          "id": 3,
+          "user": "Kenji Tanaka",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-22T10:39:00"
+        },
+        {
+          "id": 4,
+          "user": "Wei Zhang",
+          "vote": "Fake",
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "",
+          "createdAt": "2025-07-22T10:42:00"
+        },
+        {
+          "id": 5,
+          "user": "Nina Patel",
+          "vote": "Fake",
+          "comment": "Where are the official sources?",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-22T10:45:00"
         }
       ]
     },
     {
       "id": 10,
       "topic": "Scientists invent a pill for instant knowledge",
-      "shortDetail": "A new pill that allows you to instantly learn a new skill or language has been created by a team of biochemists.",
-      "fullDetail": "The 'Know-It-All Pill' is said to reprogram the brain's neural pathways, allowing for instant absorption of information. The first test subject reportedly took the pill and immediately began speaking fluent Japanese and playing the piano like a virtuoso.",
-      "reporter": "David Chen",
-      "date": "6 Aug 2025",
-      "time": "8:00 pm",
+      "shortDetail": "Brief summary about scientists invent a pill for instant knowledge.",
+      "fullDetail": "Reports have emerged about scientists invent a pill for instant knowledge, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Omar R.",
+      "date": "21 Jul 2025",
+      "time": "10:45 am",
       "status": "Not-Fake News",
-      "imageLink": "https://www.verywellmind.com/thmb/VWsMCGn5ffLNC4OtNZd7DvuQXSs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-153251304-58d2d5085f9b584683e7ce29.jpg",
-      "votesFake": 5,
-      "votesNotFake": 160,
+      "imageLink": "https://example.com/images/news10.jpg",
+      "votesFake": 299,
+      "votesNotFake": 62,
       "comments": [
         {
           "id": 1,
-          "user": "Mark Johnson",
-          "vote": "Not Fake",
-          "comment": "I wish this existed! Would save years of study.",
-          "imageUrl": ""
+          "user": "Thabo N.",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "",
+          "createdAt": "2025-07-21T10:48:00"
         },
         {
           "id": 2,
-          "user": "Jane Doe",
+          "user": "Arthit K.",
           "vote": "Fake",
-          "comment": "Too good to be true.",
-          "imageUrl": ""
+          "comment": "Where are the official sources?",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-21T10:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Hana Sato",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "",
+          "createdAt": "2025-07-21T10:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Laura Garcia",
+          "vote": "Fake",
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-21T10:57:00"
         }
       ]
     },
     {
       "id": 11,
       "topic": "Time traveler spotted at 1920s jazz club",
-      "shortDetail": "An old photograph appears to show a man using a smartphone in 1928.",
-      "fullDetail": "A black-and-white photo from a 1928 jazz club has gone viral after viewers noticed a man who seems to be holding a modern smartphone. Historians are skeptical, suggesting it could simply be a cigarette case.",
-      "reporter": "Alice Wong",
-      "date": "5 Aug 2025",
-      "time": "9:15 pm",
+      "shortDetail": "Brief summary about time traveler spotted at 1920s jazz club.",
+      "fullDetail": "Reports have emerged about time traveler spotted at 1920s jazz club, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Arthit K.",
+      "date": "20 Jul 2025",
+      "time": "1:45 am",
       "status": "Fake News",
-      "imageLink": "https://cdn.vox-cdn.com/thumbor/OzXAwUToxJwHAXV1Qlb6CVODihQ=/0x0:800x605/970x728/filters:focal(336x239:464x367):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/62585574/Club_Alabam.0.0.jpg",
-      "votesFake": 130,
-      "votesNotFake": 15,
+      "imageLink": "https://example.com/images/news11.jpg",
+      "votesFake": 135,
+      "votesNotFake": 89,
       "comments": [
         {
           "id": 1,
-          "user": "Leo Martinez",
-          "vote": "Fake",
-          "comment": "Smartphones didn’t exist in the 1920s.",
-          "imageUrl": ""
+          "user": "Pimchanok W.",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-20T01:48:00"
         },
         {
           "id": 2,
-          "user": "Emily White",
+          "user": "Sofia Rossi",
           "vote": "Not Fake",
-          "comment": "Looks convincing though!",
-          "imageUrl": "https://images.stockcake.com/public/2/c/4/2c45d806-a95a-4239-be96-3e0b35414378_large/vintage-rotary-telephone-stockcake.jpg"
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "",
+          "createdAt": "2025-07-20T01:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Yuri M.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-20T01:54:00"
         }
       ]
     },
     {
       "id": 12,
       "topic": "World’s largest pizza baked in Italy",
-      "shortDetail": "Chefs in Naples created a pizza the size of a football field.",
-      "fullDetail": "The culinary team in Naples claims to have baked a pizza measuring over 100 meters in diameter, setting a new world record. Locals enjoyed free slices during the event.",
-      "reporter": "Sara Kim",
-      "date": "4 Aug 2025",
-      "time": "1:00 pm",
+      "shortDetail": "Brief summary about world’s largest pizza baked in italy.",
+      "fullDetail": "Reports have emerged about world’s largest pizza baked in italy, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.",
+      "reporter": "Ivy Nguyen",
+      "date": "19 Jul 2025",
+      "time": "10:30 am",
       "status": "Not-Fake News",
-      "imageLink": "https://i.dailymail.co.uk/i/pix/2012/12/14/article-0-1683CDB8000005DC-258_634x354.jpg",
-      "votesFake": 3,
-      "votesNotFake": 200,
+      "imageLink": "https://example.com/images/news12.jpg",
+      "votesFake": 24,
+      "votesNotFake": 93,
       "comments": [
         {
           "id": 1,
-          "user": "John Doe",
+          "user": "Arthit K.",
           "vote": "Not Fake",
-          "comment": "I saw this on the news, looked delicious!",
-          "imageUrl": ""
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-19T10:33:00"
         },
         {
           "id": 2,
-          "user": "Peter King",
-          "vote": "Fake",
-          "comment": "Photoshop? Looks too big.",
-          "imageUrl": ""
+          "user": "Mariya Petrov",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-19T10:36:00"
+        },
+        {
+          "id": 3,
+          "user": "Omar R.",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-19T10:39:00"
+        },
+        {
+          "id": 4,
+          "user": "Carlos Gomez",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "",
+          "createdAt": "2025-07-19T10:42:00"
+        },
+        {
+          "id": 5,
+          "user": "Yuri M.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-19T10:45:00"
+        },
+        {
+          "id": 6,
+          "user": "Yuri M.",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-19T10:48:00"
+        },
+        {
+          "id": 7,
+          "user": "Hana Sato",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-19T10:51:00"
         }
       ]
     },
     {
       "id": 13,
       "topic": "Aliens demand Wi-Fi password over radio signal",
-      "shortDetail": "Astronomers intercepted a mysterious signal asking for Earth's Wi-Fi password.",
-      "fullDetail": "The SETI Institute reported receiving an unusual radio message repeating the phrase: 'Send Wi-Fi password'. Experts believe it’s likely a prank signal or natural interference.",
-      "reporter": "Chris Miller",
-      "date": "3 Aug 2025",
-      "time": "5:30 pm",
+      "shortDetail": "Brief summary about aliens demand wi-fi password over radio signal.",
+      "fullDetail": "Reports have emerged about aliens demand wi-fi password over radio signal, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.",
+      "reporter": "Laura Garcia",
+      "date": "18 Jul 2025",
+      "time": "10:00 am",
       "status": "Fake News",
-      "imageLink": "https://ichef.bbci.co.uk/news/800/cpsprodpb/ECF6/production/_100026606_gettyimages-810446884.jpg.webp",
-      "votesFake": 180,
-      "votesNotFake": 25,
+      "imageLink": "https://example.com/images/news13.jpg",
+      "votesFake": 147,
+      "votesNotFake": 297,
       "comments": [
         {
           "id": 1,
-          "user": "David Chen",
-          "vote": "Fake",
-          "comment": "Aliens wouldn’t need our Wi-Fi.",
-          "imageUrl": ""
+          "user": "Nina Patel",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "",
+          "createdAt": "2025-07-18T10:03:00"
         },
         {
           "id": 2,
-          "user": "Anna Lee",
+          "user": "Somchai S.",
           "vote": "Not Fake",
-          "comment": "Or maybe they just want to watch Netflix!",
-          "imageUrl": ""
+          "comment": "Open to the possibility here.",
+          "imageUrl": "",
+          "createdAt": "2025-07-18T10:06:00"
+        },
+        {
+          "id": 3,
+          "user": "Ben Parker",
+          "vote": "Fake",
+          "comment": "Where are the official sources?",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-18T10:09:00"
         }
       ]
     },
     {
       "id": 14,
       "topic": "Japan unveils floating city",
-      "shortDetail": "A futuristic city built entirely on floating platforms has opened in Tokyo Bay.",
-      "fullDetail": "Engineers in Japan revealed the world’s first large-scale floating city project. The city includes residential zones, parks, and renewable energy sources. It’s designed to combat rising sea levels.",
-      "reporter": "Olivia Green",
-      "date": "2 Aug 2025",
-      "time": "8:00 am",
+      "shortDetail": "Brief summary about japan unveils floating city.",
+      "fullDetail": "Reports have emerged about japan unveils floating city, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Nina Patel",
+      "date": "17 Jul 2025",
+      "time": "8:15 am",
       "status": "Not-Fake News",
-      "imageLink": "https://www.globalconstructionreview.com/wp-content/uploads/2023/06/dog.jpg",
-      "votesFake": 12,
-      "votesNotFake": 140,
+      "imageLink": "https://example.com/images/news14.jpg",
+      "votesFake": 137,
+      "votesNotFake": 268,
       "comments": [
         {
           "id": 1,
-          "user": "Alice Wong",
+          "user": "Liam O'Connor",
           "vote": "Not Fake",
-          "comment": "Japan is always ahead with tech.",
-          "imageUrl": ""
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-17T08:18:00"
         },
         {
           "id": 2,
-          "user": "Mark Johnson",
-          "vote": "Fake",
-          "comment": "Until I see it, I won’t believe it.",
-          "imageUrl": "https://robbreport.com/wp-content/uploads/2023/06/DogenCity1.jpg?w=1000"
+          "user": "Wei Zhang",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "",
+          "createdAt": "2025-07-17T08:21:00"
+        },
+        {
+          "id": 3,
+          "user": "Sofia Rossi",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "",
+          "createdAt": "2025-07-17T08:24:00"
         }
       ]
     },
     {
       "id": 15,
       "topic": "Scientists create invisibility cloak",
-      "shortDetail": "Researchers claim to have developed a fabric that bends light, making objects invisible.",
-      "fullDetail": "The University of Fictional Sciences announced a prototype cloak that uses nanomaterials to redirect light waves. The effect reportedly hides small objects from view, raising ethical and military debates.",
-      "reporter": "John Smith",
-      "date": "1 Aug 2025",
-      "time": "10:10 am",
+      "shortDetail": "Brief summary about scientists create invisibility cloak.",
+      "fullDetail": "Reports have emerged about scientists create invisibility cloak, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Arthit K.",
+      "date": "16 Jul 2025",
+      "time": "7:45 am",
       "status": "Not-Fake News",
-      "imageLink": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/2014/09/27/b2a121b52c24f56b46d8fa04c23181f2.jpg?itok=Gtq26Sen",
-      "votesFake": 25,
-      "votesNotFake": 110,
+      "imageLink": "https://example.com/images/news15.jpg",
+      "votesFake": 291,
+      "votesNotFake": 221,
       "comments": [
         {
           "id": 1,
-          "user": "Jane Doe",
-          "vote": "Not Fake",
-          "comment": "Imagine soldiers using this technology.",
-          "imageUrl": ""
+          "user": "Ivy Nguyen",
+          "vote": "Fake",
+          "comment": "Where are the official sources?",
+          "imageUrl": "",
+          "createdAt": "2025-07-16T07:48:00"
         },
         {
           "id": 2,
-          "user": "Peter King",
+          "user": "Yuri M.",
           "vote": "Fake",
-          "comment": "Sounds like science fiction.",
-          "imageUrl": ""
+          "comment": "Where are the official sources?",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-16T07:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Wei Zhang",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-16T07:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-16T07:57:00"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "topic": "Amazon rainforest reveals lost city",
+      "shortDetail": "Brief summary about amazon rainforest reveals lost city.",
+      "fullDetail": "Reports have emerged about amazon rainforest reveals lost city, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Fatima Khan",
+      "date": "15 Jul 2025",
+      "time": "11:30 am",
+      "status": "Not-Fake News",
+      "imageLink": "https://example.com/images/news16.jpg",
+      "votesFake": 13,
+      "votesNotFake": 185,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Ivy Nguyen",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-15T11:33:00"
+        },
+        {
+          "id": 2,
+          "user": "Somchai S.",
+          "vote": "Fake",
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "",
+          "createdAt": "2025-07-15T11:36:00"
+        },
+        {
+          "id": 3,
+          "user": "Carlos Gomez",
+          "vote": "Fake",
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "",
+          "createdAt": "2025-07-15T11:39:00"
+        },
+        {
+          "id": 4,
+          "user": "Arthit K.",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "",
+          "createdAt": "2025-07-15T11:42:00"
+        },
+        {
+          "id": 5,
+          "user": "Liam O'Connor",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "",
+          "createdAt": "2025-07-15T11:45:00"
+        },
+        {
+          "id": 6,
+          "user": "Sofia Rossi",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-15T11:48:00"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "topic": "Robots elected to city council",
+      "shortDetail": "Brief summary about robots elected to city council.",
+      "fullDetail": "Reports have emerged about robots elected to city council, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Mariya Petrov",
+      "date": "14 Jul 2025",
+      "time": "3:00 am",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news17.jpg",
+      "votesFake": 180,
+      "votesNotFake": 282,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Yuri M.",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "",
+          "createdAt": "2025-07-14T03:03:00"
+        },
+        {
+          "id": 2,
+          "user": "Ivy Nguyen",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-14T03:06:00"
+        },
+        {
+          "id": 3,
+          "user": "Amina Yusuf",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-14T03:09:00"
+        },
+        {
+          "id": 4,
+          "user": "Carlos Gomez",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-14T03:12:00"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "topic": "Volcano erupts rainbow-colored lava",
+      "shortDetail": "Brief summary about volcano erupts rainbow-colored lava.",
+      "fullDetail": "Reports have emerged about volcano erupts rainbow-colored lava, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Mariya Petrov",
+      "date": "13 Jul 2025",
+      "time": "3:15 am",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news18.jpg",
+      "votesFake": 102,
+      "votesNotFake": 207,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina Patel",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "",
+          "createdAt": "2025-07-13T03:18:00"
+        },
+        {
+          "id": 2,
+          "user": "Fatima Khan",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-13T03:21:00"
+        },
+        {
+          "id": 3,
+          "user": "Carlos Gomez",
+          "vote": "Fake",
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-13T03:24:00"
+        },
+        {
+          "id": 4,
+          "user": "Mariya Petrov",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "",
+          "createdAt": "2025-07-13T03:27:00"
+        },
+        {
+          "id": 5,
+          "user": "Amina Yusuf",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-13T03:30:00"
+        },
+        {
+          "id": 6,
+          "user": "Somchai S.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-13T03:33:00"
+        },
+        {
+          "id": 7,
+          "user": "Nina Patel",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "",
+          "createdAt": "2025-07-13T03:36:00"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "topic": "Scientists decode dolphin language",
+      "shortDetail": "Brief summary about scientists decode dolphin language.",
+      "fullDetail": "Reports have emerged about scientists decode dolphin language, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Laura Garcia",
+      "date": "12 Jul 2025",
+      "time": "7:30 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://example.com/images/news19.jpg",
+      "votesFake": 45,
+      "votesNotFake": 4,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Carlos Gomez",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "",
+          "createdAt": "2025-07-12T19:33:00"
+        },
+        {
+          "id": 2,
+          "user": "Wei Zhang",
+          "vote": "Fake",
+          "comment": "This is going around on meme pages.",
+          "imageUrl": "",
+          "createdAt": "2025-07-12T19:36:00"
+        },
+        {
+          "id": 3,
+          "user": "Pimchanok W.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-12T19:39:00"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic": "UFO lands in farmer's field",
+      "shortDetail": "Brief summary about ufo lands in farmer's field.",
+      "fullDetail": "Reports have emerged about ufo lands in farmer's field, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.",
+      "reporter": "Pimchanok W.",
+      "date": "11 Jul 2025",
+      "time": "11:15 pm",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news20.jpg",
+      "votesFake": 17,
+      "votesNotFake": 148,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Liam O'Connor",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-11T23:18:00"
+        },
+        {
+          "id": 2,
+          "user": "Laura Garcia",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-11T23:21:00"
+        },
+        {
+          "id": 3,
+          "user": "Wei Zhang",
+          "vote": "Fake",
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "",
+          "createdAt": "2025-07-11T23:24:00"
+        },
+        {
+          "id": 4,
+          "user": "Laura Garcia",
+          "vote": "Fake",
+          "comment": "Nice try, but no evidence.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-11T23:27:00"
+        },
+        {
+          "id": 5,
+          "user": "Nina Patel",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-11T23:30:00"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "topic": "World’s first 200-year-old person celebrates birthday",
+      "shortDetail": "Brief summary about world’s first 200-year-old person celebrates birthday.",
+      "fullDetail": "Reports have emerged about world’s first 200-year-old person celebrates birthday, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.",
+      "reporter": "Sofia Rossi",
+      "date": "10 Jul 2025",
+      "time": "8:30 pm",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news21.jpg",
+      "votesFake": 283,
+      "votesNotFake": 278,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Liam O'Connor",
+          "vote": "Fake",
+          "comment": "Where are the official sources?",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-10T20:33:00"
+        },
+        {
+          "id": 2,
+          "user": "Nina Patel",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-10T20:36:00"
+        },
+        {
+          "id": 3,
+          "user": "Noah Brown",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-10T20:39:00"
+        },
+        {
+          "id": 4,
+          "user": "Mariya Petrov",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-10T20:42:00"
+        },
+        {
+          "id": 5,
+          "user": "Wei Zhang",
+          "vote": "Fake",
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-10T20:45:00"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "topic": "AI writes bestselling novel overnight",
+      "shortDetail": "Brief summary about ai writes bestselling novel overnight.",
+      "fullDetail": "Reports have emerged about ai writes bestselling novel overnight, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Pimchanok W.",
+      "date": "9 Jul 2025",
+      "time": "1:30 am",
+      "status": "Not-Fake News",
+      "imageLink": "https://example.com/images/news22.jpg",
+      "votesFake": 129,
+      "votesNotFake": 210,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Arthit K.",
+          "vote": "Fake",
+          "comment": "Where are the official sources?",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-09T01:33:00"
+        },
+        {
+          "id": 2,
+          "user": "Nina Patel",
+          "vote": "Fake",
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "",
+          "createdAt": "2025-07-09T01:36:00"
+        },
+        {
+          "id": 3,
+          "user": "Noah Brown",
+          "vote": "Fake",
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-09T01:39:00"
+        },
+        {
+          "id": 4,
+          "user": "Omar R.",
+          "vote": "Fake",
+          "comment": "Where are the official sources?",
+          "imageUrl": "",
+          "createdAt": "2025-07-09T01:42:00"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "topic": "Mars colony declares independence",
+      "shortDetail": "Brief summary about mars colony declares independence.",
+      "fullDetail": "Reports have emerged about mars colony declares independence, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Fatima Khan",
+      "date": "8 Jul 2025",
+      "time": "8:15 am",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news23.jpg",
+      "votesFake": 57,
+      "votesNotFake": 51,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar R.",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-08T08:18:00"
+        },
+        {
+          "id": 2,
+          "user": "Thabo N.",
+          "vote": "Fake",
+          "comment": "This is going around on meme pages.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-08T08:21:00"
+        },
+        {
+          "id": 3,
+          "user": "Mariya Petrov",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-08T08:24:00"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "topic": "World’s deepest cave discovered in Vietnam",
+      "shortDetail": "Brief summary about world’s deepest cave discovered in vietnam.",
+      "fullDetail": "Reports have emerged about world’s deepest cave discovered in vietnam, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Mariya Petrov",
+      "date": "7 Jul 2025",
+      "time": "10:45 am",
+      "status": "Not-Fake News",
+      "imageLink": "https://example.com/images/news24.jpg",
+      "votesFake": 27,
+      "votesNotFake": 278,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Arthit K.",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "",
+          "createdAt": "2025-07-07T10:48:00"
+        },
+        {
+          "id": 2,
+          "user": "Somchai S.",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-07T10:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Amina Yusuf",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-07T10:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Sofia Rossi",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "",
+          "createdAt": "2025-07-07T10:57:00"
+        },
+        {
+          "id": 5,
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "",
+          "createdAt": "2025-07-07T11:00:00"
+        },
+        {
+          "id": 6,
+          "user": "Arthit K.",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-07T11:03:00"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "topic": "Sharks spotted swimming in Venice canals",
+      "shortDetail": "Brief summary about sharks spotted swimming in venice canals.",
+      "fullDetail": "Reports have emerged about sharks spotted swimming in venice canals, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Somchai S.",
+      "date": "6 Jul 2025",
+      "time": "3:00 pm",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news25.jpg",
+      "votesFake": 32,
+      "votesNotFake": 229,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Fatima Khan",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-06T15:03:00"
+        },
+        {
+          "id": 2,
+          "user": "Liam O'Connor",
+          "vote": "Fake",
+          "comment": "This is going around on meme pages.",
+          "imageUrl": "",
+          "createdAt": "2025-07-06T15:06:00"
+        },
+        {
+          "id": 3,
+          "user": "Fatima Khan",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-06T15:09:00"
+        },
+        {
+          "id": 4,
+          "user": "Amina Yusuf",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-06T15:12:00"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "topic": "Scientists grow meat from sunlight",
+      "shortDetail": "Brief summary about scientists grow meat from sunlight.",
+      "fullDetail": "Reports have emerged about scientists grow meat from sunlight, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.",
+      "reporter": "Noah Brown",
+      "date": "5 Jul 2025",
+      "time": "11:45 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://example.com/images/news26.jpg",
+      "votesFake": 53,
+      "votesNotFake": 44,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Amina Yusuf",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-05T23:48:00"
+        },
+        {
+          "id": 2,
+          "user": "Sofia Rossi",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-05T23:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Amina Yusuf",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "",
+          "createdAt": "2025-07-05T23:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Thabo N.",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "",
+          "createdAt": "2025-07-05T23:57:00"
+        },
+        {
+          "id": 5,
+          "user": "Amina Yusuf",
+          "vote": "Fake",
+          "comment": "Looks edited if you zoom in.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-06T00:00:00"
+        },
+        {
+          "id": 6,
+          "user": "Ivy Nguyen",
+          "vote": "Fake",
+          "comment": "This is going around on meme pages.",
+          "imageUrl": "",
+          "createdAt": "2025-07-06T00:03:00"
+        },
+        {
+          "id": 7,
+          "user": "Sofia Rossi",
+          "vote": "Not Fake",
+          "comment": "Open to the possibility here.",
+          "imageUrl": "",
+          "createdAt": "2025-07-06T00:06:00"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "topic": "Invisible island discovered in the Pacific",
+      "shortDetail": "Brief summary about invisible island discovered in the pacific.",
+      "fullDetail": "Reports have emerged about invisible island discovered in the pacific, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Thabo N.",
+      "date": "4 Jul 2025",
+      "time": "9:00 pm",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news27.jpg",
+      "votesFake": 1,
+      "votesNotFake": 297,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Amina Yusuf",
+          "vote": "Fake",
+          "comment": "This is going around on meme pages.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-04T21:03:00"
+        },
+        {
+          "id": 2,
+          "user": "Somchai S.",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-04T21:06:00"
+        },
+        {
+          "id": 3,
+          "user": "Sofia Rossi",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "",
+          "createdAt": "2025-07-04T21:09:00"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "topic": "Human teleportation tested successfully",
+      "shortDetail": "Brief summary about human teleportation tested successfully.",
+      "fullDetail": "Reports have emerged about human teleportation tested successfully, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.\n\nIn response, journalists and researchers have begun fact-checking the claims, compiling data and comparing with historical precedents. The controversy has also sparked memes, jokes, and creative artworks across the internet.\n\nAs the debate continues, the story of this event remains a talking point. Regardless of whether it is confirmed as true or dismissed as a hoax, it has captured the imagination of people worldwide.",
+      "reporter": "Wei Zhang",
+      "date": "3 Jul 2025",
+      "time": "4:45 pm",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news28.jpg",
+      "votesFake": 259,
+      "votesNotFake": 50,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Somchai S.",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-03T16:48:00"
+        },
+        {
+          "id": 2,
+          "user": "Laura Garcia",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-03T16:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Fatima Khan",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-03T16:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Fatima Khan",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-03T16:57:00"
+        },
+        {
+          "id": 5,
+          "user": "Carlos Gomez",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-03T17:00:00"
+        },
+        {
+          "id": 6,
+          "user": "Mariya Petrov",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-03T17:03:00"
+        },
+        {
+          "id": 7,
+          "user": "Sofia Rossi",
+          "vote": "Fake",
+          "comment": "Doesn't add up scientifically.",
+          "imageUrl": "https://example.com/images/sighting.png",
+          "createdAt": "2025-07-03T17:06:00"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "topic": "Floating trains debut in Germany",
+      "shortDetail": "Brief summary about floating trains debut in germany.",
+      "fullDetail": "Reports have emerged about floating trains debut in germany, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Noah Brown",
+      "date": "2 Jul 2025",
+      "time": "11:45 pm",
+      "status": "Not-Fake News",
+      "imageLink": "https://example.com/images/news29.jpg",
+      "votesFake": 91,
+      "votesNotFake": 285,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Ivy Nguyen",
+          "vote": "Fake",
+          "comment": "This is going around on meme pages.",
+          "imageUrl": "https://example.com/images/screenshot.jpg",
+          "createdAt": "2025-07-02T23:48:00"
+        },
+        {
+          "id": 2,
+          "user": "Ivy Nguyen",
+          "vote": "Not Fake",
+          "comment": "Local news mentioned something like this.",
+          "imageUrl": "",
+          "createdAt": "2025-07-02T23:51:00"
+        },
+        {
+          "id": 3,
+          "user": "Omar R.",
+          "vote": "Not Fake",
+          "comment": "Evidence is getting stronger each day.",
+          "imageUrl": "",
+          "createdAt": "2025-07-02T23:54:00"
+        },
+        {
+          "id": 4,
+          "user": "Liam O'Connor",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-02T23:57:00"
+        },
+        {
+          "id": 5,
+          "user": "Mariya Petrov",
+          "vote": "Fake",
+          "comment": "This is going around on meme pages.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-03T00:00:00"
+        },
+        {
+          "id": 6,
+          "user": "Somchai S.",
+          "vote": "Not Fake",
+          "comment": "There are similar reports elsewhere.",
+          "imageUrl": "",
+          "createdAt": "2025-07-03T00:03:00"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "topic": "New species of dragon discovered in Indonesia",
+      "shortDetail": "Brief summary about new species of dragon discovered in indonesia.",
+      "fullDetail": "Reports have emerged about new species of dragon discovered in indonesia, drawing widespread attention and debate. Eyewitnesses describe unusual details and stories that quickly spread across local and international media.\n\nSocial media platforms were flooded with posts, videos, and photos, many of which went viral within hours. Some users expressed excitement and curiosity, while others raised doubts about the authenticity of the claims.\n\nExperts and officials have weighed in, offering explanations ranging from scientific reasoning to cultural interpretations. While some insist the phenomenon could be plausible, skeptics argue there is little to no solid evidence.",
+      "reporter": "Sofia Rossi",
+      "date": "1 Jul 2025",
+      "time": "7:00 pm",
+      "status": "Fake News",
+      "imageLink": "https://example.com/images/news30.jpg",
+      "votesFake": 227,
+      "votesNotFake": 237,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Ivy Nguyen",
+          "vote": "Fake",
+          "comment": "Pretty sure this is satire.",
+          "imageUrl": "https://example.com/images/proof1.jpg",
+          "createdAt": "2025-07-01T19:03:00"
+        },
+        {
+          "id": 2,
+          "user": "Nina Patel",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-01T19:06:00"
+        },
+        {
+          "id": 3,
+          "user": "Pimchanok W.",
+          "vote": "Not Fake",
+          "comment": "Could be real—technology is advancing fast.",
+          "imageUrl": "",
+          "createdAt": "2025-07-01T19:09:00"
+        },
+        {
+          "id": 4,
+          "user": "Sofia Rossi",
+          "vote": "Not Fake",
+          "comment": "I know someone who witnessed it.",
+          "imageUrl": "",
+          "createdAt": "2025-07-01T19:12:00"
         }
       ]
     }
