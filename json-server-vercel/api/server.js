@@ -11,7 +11,8 @@ module.exports = async (req, res) => {
   res.setHeader('Content-Type', 'application/json');
 
   if (req.method === 'OPTIONS') {
-    res.status(200).end();
+    res.writeHead(200);
+    res.end();
     return;
   }
 
@@ -35,7 +36,9 @@ module.exports = async (req, res) => {
 
       const paginated = news.slice(start, end);
 
-      res.status(200).json(paginated);
+      res.setHeader('X-Total-Count', news.length);
+      res.writeHead(200);
+      res.end(JSON.stringify(paginated));
       return;
     }
 
@@ -46,25 +49,29 @@ module.exports = async (req, res) => {
       const item = (data.news || []).find(n => n.id === id);
 
       if (item) {
-        res.status(200).json(item);
+        res.writeHead(200);
+        res.end(JSON.stringify(item));
       } else {
-        res.status(404).json({ error: 'News not found' });
+        res.writeHead(404);
+        res.end(JSON.stringify({ error: 'News not found' }));
       }
       return;
     }
 
     // fallback
-    res.status(404).json({ 
+    res.writeHead(404);
+    res.end(JSON.stringify({
       error: 'Not found',
       path: pathname,
       method: method
-    });
+    }));
 
   } catch (error) {
     console.error('API Error:', error);
-    res.status(500).json({ 
+    res.writeHead(500);
+    res.end(JSON.stringify({
       error: 'Internal Server Error',
-      message: error.message 
-    });
+      message: error.message
+    }));
   }
 };
